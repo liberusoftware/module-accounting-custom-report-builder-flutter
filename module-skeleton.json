@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-custom-report-builder-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-custom-report-builder",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_custom_report_builder_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/custom-report-builder.md",
+  "presentationPlan": "projects/accounting/flutter/custom-report-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
